@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0D9488&height=220&section=header&text=Yastika%20Singh&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20EE%20Student%20%7C%20Data%20%26%20Business%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0D9488&height=220&section=header&text=Yastika%20Singh&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20EE%20Student%20%7C%20Data%20and%20Business%20Analytics&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -40,7 +40,7 @@ const yastikaSingh = {
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📊 Nykaa Beauty Market Analysis
 
